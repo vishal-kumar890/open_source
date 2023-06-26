@@ -13,5 +13,5 @@ export default defineNuxtConfig({
     },
     modules: [],
 
-    css: ['@/assets/scss/style.scss'],
+    css: ['@/assets/scss/style.scss','@/node_modules/sweetalert2/dist/sweetalert2.min.css'],
 })
